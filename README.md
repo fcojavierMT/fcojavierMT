@@ -7,5 +7,3 @@ My name is Francisco Javier Martínez Talavera, but everybody just calls me _Tal
 - 📫 How to reach me: fcojavierdev@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcojavierMT&layout=compact)
-
-![Talavera's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcojavierMT&count_private=true&show_icons=true&theme=gruvbox)
